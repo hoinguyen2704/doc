@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Tektur:wght@400;500;600;700;800;900&display=swap');
+
+/* * {
+  text-align: center;
+} */
+
+h1 {
+  color: #D72803;
+  background: #F2B041;
+  font-family: 'Tektur', cursive;
+  font-style: italic;
+  font-weight: 900;
+  font-size: 40px;
+}
+
+/* h2 {
+  color: #5989D7;
+} */
+
+#test-b {
+  color: #5989D7;
+}
+
+/* #test-a {
+  color: #709E3D;
+}
+
+#test-c {
+  color: #709E3D;
+} */
+
+.color-green {
+  color: #709E3D;
+}
+
+h3, h4, h5 {
+  color: #FA9F1B;
+}

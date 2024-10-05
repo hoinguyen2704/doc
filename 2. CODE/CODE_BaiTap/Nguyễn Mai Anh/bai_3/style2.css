@@ -1,0 +1,19 @@
+.element{
+    border: 1px #CCCCCC solid;
+    width: 210px;
+    display: inline-block;
+    margin: 10px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    border-radius: 10px;
+}
+.image{
+    display: flex;
+    width:100px;
+    margin: auto;
+    
+}
+.text{
+    margin: 0px;
+    text-align: center;
+}
