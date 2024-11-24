@@ -1,0 +1,52 @@
+https://github.com/hoinguyen2704/doc/tree/Java_Spring_MVC_HoiDanIT
+
+Video #1 : hướng dẫn cách học tập hiệu quả
+
+Video #2 : hướng dẫn cách truy cập/sử dụng tài liệu khóa học
+
+Video #3 : hướng dẫn cách  truy cập source code
+
+Video #4 : hướng dẫn tải source code theo từng video thực hành
+
+Video #5.3 :  hướng dẫn sử dụng Udemy, cũng như cách support khi có bug (Q&A)
+
+Trong video tiếp theo #35, mình hướng dẫn cách cài đặt MySQL.
+
+Do phần mềm update, vì vậy khi cài đặt, các bạn lựa chọn options cài đặt "FULL" (trong tài liệu mình có note các bạn nhé)
+
+Link backup tải MySQL cho windows: https://drive.google.com/file/d/1RvOJDRoSEqrxD_w_OLwxJ2c4h6Y6kRl6/view?usp=sharing
+
+Note: Cú pháp này được sử dụng cho video tiếp theo:
+
+Hướng Dẫn Quyền Truy Cập Tài Liệu Khóa Học
+
+Bạn inbox qua Fanpage Hỏi Dân IT theo cú pháp sau:
+
+(thay tên khóa học, và tên email học viên của bạn vào nhé)
+
+
+
+Cấp quyền truy cập tài liệu khóa học "TÊN-KHÓA-HỌC"
+
+
+
+Email học viên: yourEmail@gmail.com
+
+
+
+Ví dụ:
+
+bạn muốn truy cập tài liệu khóa học “Java Spring MVC Ultimate từ Z tới A”,
+
+và email học viên của bạn là : myEmail@gmail.com
+
+
+
+Thì cú pháp tin nhắn của bạn là:
+
+Cấp quyền truy cập tài liệu khóa học "Java Spring MVC Ultimate từ Z tới A"
+
+
+
+Email học viên: myEmail@gmail.com
+
