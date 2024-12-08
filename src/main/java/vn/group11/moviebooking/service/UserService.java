@@ -1,4 +1,4 @@
-package vn.hoidanit.laptopshop.service;
+package vn.group11.moviebooking.service;
 
 import org.springframework.stereotype.Service;
 
